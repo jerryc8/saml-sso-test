@@ -13,7 +13,7 @@ You can clone on you local with:
 
 Alternatively you can deploy straight to Netlify with this one-click Deploy:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg?utm_source=github)](https://app.netlify.com/start/deploy?repository=https://github.com/svengau/netlify-authentification-sample&utm_source=github)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg?utm_source=github)](https://app.netlify.com/start/deploy?repository=https://github.com/cresta/netlify-authentification-sample&utm_source=github)
 
 Once deployed, don't forget to configure the 3 following env variables:
 
